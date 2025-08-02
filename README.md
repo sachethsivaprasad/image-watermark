@@ -5,8 +5,6 @@ A simple **desktop GUI application** built with **Tkinter** and **Pillow** that 
 ---
 
 ## 🛠️ Built With
-
-- [Python 3.x](https://www.python.org/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) – GUI Library
 - [Pillow (PIL)](https://pillow.readthedocs.io/en/stable/) – Image Processing
 
